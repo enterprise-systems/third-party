@@ -1,2 +1,3 @@
 jenkins/jenkins_compose/
 jenkins/var/
+postgres/postgres_data/
