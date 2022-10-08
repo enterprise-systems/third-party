@@ -3,3 +3,4 @@ jenkins/var/
 postgres/postgres_data/
 sonarqube/sonarqube_data/
 sonarqube/sonarqube_logs/
+nexus/nexus
