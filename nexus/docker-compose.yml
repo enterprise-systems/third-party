@@ -3,6 +3,7 @@ version: "3.9"
 services:
   nexus:
     image: "sonatype/nexus3"
+    restart: always
     ports:
       - "8011:8081"
     volumes:
